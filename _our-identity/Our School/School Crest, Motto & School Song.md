@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our School
 ---
 <img src="/images/img_crest_1%20(1).jpg" 
-     style="width:40%">
+     style="width:30%">
 
 The school crest is triangular in shape. The triangle, geometrically, the most stable of all shapes, symbolizes stability and steadfastness. The school logo, consisting of the letters T and P (Townsville Primary), is white in colour. It symbolizes the innocence and purity of young untarnished minds. It rests in the centre of the inner royal blue triangle. 
 
