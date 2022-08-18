@@ -16,7 +16,8 @@ In our classrooms, we focus on providing pupils students with learning experienc
 
 **Learning Support for Mathematics (LSM) Programme**
 
-![](/images/158158952_4480132542001281_7279112128594239155_n.jpg)
+<img src="/images/158158952_4480132542001281_7279112128594239155_n.jpg" 
+     style="width:60%">
 
 The LSM programme is an early intervention programme for Primary 1 and Primary 2 students who need additional support to acquire basic numeracy skills. Lessons are conducted in small-sized groups so that teachers can provide more customized lessons for the students.
 
@@ -25,14 +26,17 @@ The E2K programme is an enrichment programme for selected Primary 4 students w
 
 **Financial Literacy Programme**
 
-![](/images/WhatsApp%20Image%202021.jpeg)
+<img src="/images/WhatsApp%20Image%202021.jpeg" 
+     style="width:60%">
 
-![](/images/WhatsApp%20Image%202021-03-311.jpeg)
+<img src="/images/WhatsApp%20Image%202021-03-311.jpeg" 
+     style="width:60%">
 
 The Financial Literacy Programme is held termly and aims to teach our students to be financially literate and to develop healthy financial habits. This is done by equipping them with financial literacy knowledge through bite sized information and engaging activities shared through multimodal platforms. 
 
 **Fun with Math @ Recess**
 
-![](/images/158324553_4480132468667955_1869640778425412738_n.jpg)
+<img src="/images/158324553_4480132468667955_1869640778425412738_n.jpg" 
+     style="width:80%">
 
 Fun with Math @ Recess is a termly programme where students get to play games related to Math during recess. Through games, they get to apply their Mathematical concepts and knowledge in a fun and non-threatening manner.
