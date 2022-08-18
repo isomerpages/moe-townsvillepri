@@ -2,5 +2,7 @@ logo: /images/crest.jpg
 links:
   - title: Our Identity
     collection: our-identity
+  - title: Learning @ TVPS
+    collection: learning-at-tvps
   - title: Contact Us
     url: /contact-us/
