@@ -1,4 +1,5 @@
 collections:
   learning-at-tvps:
     output: true
-    order: []
+    order:
+      - Curriculum/.keep
