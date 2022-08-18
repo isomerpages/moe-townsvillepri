@@ -68,15 +68,15 @@ third_nav_title: Our People
 | 21 |  <u> 4 Honesty </u><br><br>Mdm Christine Choy <br>Mdm Noor Saleha | <br><br> choy_peizhi@schools.gov.sg<br>noor_saleha_johari@schools.gov.sg |
 | 22 |  <u> 4 Kindness </u> <br><br>Mrs Goh Siew Kee<br>Mr Vincent Poh<br>Mdm Peh Ah Lian | <br><br>goh_siew_kee@schools.gov.sg <br> poh_choon_sian@schools.gov.sg <br> peh_ah_lian@schools.gov.sg |
 | 23 | <u> 4 Loyalty </u><br><br>Mdm Chong Hui Ling Shireen<br>Mr M Nachiappan | <br><br>chong_hui_ling_shireen@schools.gov.sg<br>m_nachiappan@schools.gov.sg |
-| 24 |  4 Resilience <br><br>Mr Koh Chi Wei<br>Mdm Irdawati Bte Mohd Ariffin                 | <br>koh_chi_wei@schools.gov.sg<br><br>irdawati_mohd_ariffin@schools.gov.sg |
-| 25 |  5 Care  <br><br>Mr Lim Boon Hai<br><br>Mdm Yuen Hooi Shing |  <br>lim_boon_hai@schools.gov.sg <br><br><br>yuen_hooi_shing@schools.gov.sg |
-| 26 |  5 Diligence<br><br>Mrs Pamela Chan<br><br>Ms Nur Shameem | <br>pei_cihui_pamela@schools.gov.sgnur_shameem_abdul_gafoor@schools.gov.sg |
-| 27 |  5 Honesty <br><br><br>Mr Ben Sng<br>Mdm Nurbayah <br><br> | <br><br>sng_rong_long_ben@schools.gov.sg<br>nurbayah_ismail@schools.gov.sg  |
-| 28 | 5 Kindness<br> <br>Mr Kelvin Woon<br>Mdm Lye Choon Hwan |  <br>kelvin_woon_wei_shen@schools.gov.sg <br><br><br>lye_choon_hwan@schools.gov.sg |
-|  29 |  5 Loyalty<br>Mrs Karen Anne<br>Mrs Premila Onyekachi | <br> karen_anne_silva@schools.gov.sg<br><br>premila_ratnam@schools.gov.sg |
-|  30 |  5 Resilience<br><br>Mr Benjamin Quek<br>Mdm An Wei | <br>quek_kuan_hiong_benjamin@schools.gov.sg<br><br>an_wei@schools.gov.sg  |
-| 31 |   6 Care <br><br>Mr Ghazali<br><br>Miss Felicia Ong |  <br>ghazali_b_md_ibrahim@schools.gov.sg<br><br>ong_hui_min_felicia@schools.gov.sg  |
-|  32  |   6 Diligence <br>Mrs Cheh Seok Buay<br><br>Mr Mohammed Ridzal | <br>cheh_seok_buay@schools.gov.sg  <br>mohammed_ridzal_mohammed_ali@schools.gov.sg<br><br><br> |
-|  33 |   6 Honesty<br>Mrs Lee Peck Har<br><br>Ms Rachel Kunnasekaran | <br>ong_peck_har@schools.gov.sg <br><br>gayathri_kunnasekaran@schools.gov.sg  |
-| 34 |  6 Loyalty<br><br>Mrs Nge Yuen Ee<br><br>Mdm Suzana Su'ah | <br>tham_yuen_ee@schools.gov.sg <br><br>suzana_suah@schools.gov.sg |
+| 24 |  <u> 4 Resilience </u> <br><br>Mr Koh Chi Wei<br>Mdm Irdawati Bte Mohd Ariffin | <br><br> koh_chi_wei@schools.gov.sg<br>irdawati_mohd_ariffin@schools.gov.sg |
+| 25 |  <u> 5 Care </u><br><br>Mr Lim Boon Hai<br>Mdm Yuen Hooi Shing |  <br><br>lim_boon_hai@schools.gov.sg <br>yuen_hooi_shing@schools.gov.sg |
+| 26 |  <u> 5 Diligence </u><br><br>Mrs Pamela Chan<br>Ms Nur Shameem | <br><br> pei_cihui_pamela@schools.gov.sg <br> nur_shameem_abdul_gafoor@schools.gov.sg |
+| 27 |  <u> 5 Honesty </u> <br><br>Mr Ben Sng<br>Mdm Nurbayah | <br><br>sng_rong_long_ben@schools.gov.sg<br>nurbayah_ismail@schools.gov.sg  |
+| 28 | <u> 5 Kindness </u><br> <br>Mr Kelvin Woon<br>Mdm Lye Choon Hwan | <br> <br>kelvin_woon_wei_shen@schools.gov.sg<br>lye_choon_hwan@schools.gov.sg |
+|  29 |  <u> 5 Loyalty </u> <br><br>Mrs Karen Anne<br>Mrs Premila Onyekachi | <br> <br> karen_anne_silva@schools.gov.sg<br>premila_ratnam@schools.gov.sg |
+|  30 |  <u> 5 Resilience </u> <br><br>Mr Benjamin Quek<br>Mdm An Wei | <br><br> quek_kuan_hiong_benjamin@schools.gov.sg<br>an_wei@schools.gov.sg  |
+| 31 |  <u> 6 Care </u><br><br>Mr Ghazali<br>Miss Felicia Ong | <br><br>ghazali_b_md_ibrahim@schools.gov.sg <br>ong_hui_min_felicia@schools.gov.sg |
+|  32  | <u> 6 Diligence </u> <br><br>Mrs Cheh Seok Buay<br>Mr Mohammed Ridzal | <br><br>cheh_seok_buay@schools.gov.sg  <br>mohammed_ridzal_mohammed_ali@schools.gov.sg |
+|  33 | <u> 6 Honesty </u><br><br>Mrs Lee Peck Har<br>Ms Rachel Kunnasekaran | <br> <br> ong_peck_har@schools.gov.sg <br>gayathri_kunnasekaran@schools.gov.sg  |
+| 34 | <u> 6 Loyalty </u><br><br>Mrs Nge Yuen Ee<br>Mdm Suzana Su'ah | <br><br> tham_yuen_ee@schools.gov.sg <br> suzana_suah@schools.gov.sg |
 | | | |
