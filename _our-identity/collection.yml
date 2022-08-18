@@ -2,7 +2,6 @@ collections:
   our-identity:
     output: true
     order:
-      - Our Reflective Practitioners.md
       - Our School/.keep
       - Our School/Our History.md
       - Our School/Principal's Message.md
@@ -13,3 +12,4 @@ collections:
       - Our People/TVPS Team.md
       - Our People/School Advisory Committee.md
       - Our Contributions.md
+      - Our Reflective Practitioners.md
