@@ -1,4 +1,5 @@
 collections:
   our-identity:
     output: true
-    order: []
+    order:
+      - Our School/.keep
