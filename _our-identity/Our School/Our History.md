@@ -4,7 +4,7 @@ permalink: /our-identity/our-school/our-history
 description: ""
 third_nav_title: Our School
 ---
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdgX1k0iDIdhueYxAcZ7fJ6O_qqsNxSML0OKGZQE8uQDmdBQmKY4FY08RwRqdXdWV3QsIba5ZlyAdD/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdgX1k0iDIdhueYxAcZ7fJ6O_qqsNxSML0OKGZQE8uQDmdBQmKY4FY08RwRqdXdWV3QsIba5ZlyAdD/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 Townsville Primary School started functioning at its former premises in Ang Mo Kio St 32 in 1983. The school was officially declared open on 25 July 1985 by BG Lee Hsien Loong, then Minister of State for Defence, Trade and Industry and Member of Parliament for Teck Ghee Constituency. The school moved to its current premises at 3 Ang Mo Kio Avenue 10 in December 2000 and merged with Chong Shan Primary School in 2001. The new campus was officially opened on 12 July 2002 by then DPM Lee Hsien Loong.&nbsp;
 
