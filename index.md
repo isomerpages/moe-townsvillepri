@@ -2,7 +2,7 @@
 layout: homepage
 title: Townsvill Primary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/447bacff7_936.jpg
 permalink: /
 notification: ""
 sections:
@@ -31,3 +31,4 @@ sections:
       image: /images/School Website Banner.jpeg
       alt: Image alt text
 ---
+
