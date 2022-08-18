@@ -15,10 +15,10 @@ Encapsulated in the acronym **iCARe³**
   
 <center> 
 	
-**I**ntegrity our Foundation <br>
-**C**ompassion our Key <br>
-**A**rdent for Singapore, our Home <br>
-**R**espect, **R**esponsibility & **Re**silience our Strengths 
+<strong> I </strong> ntegrity our Foundation <br>
+<strong> C </strong> ompassion our Key <br>
+<strong> A </strong> rdent for Singapore, our Home <br>
+<strong> R </strong> espect, <strong> R </strong> esponsibility & <strong> R </strong> esilience our Strengths 
 </center>  
 
 **Desired Outcomes**  
