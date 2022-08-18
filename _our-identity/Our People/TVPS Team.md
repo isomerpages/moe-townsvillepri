@@ -45,17 +45,17 @@ third_nav_title: Our People
 
 | S/N | Class<br>Form Teachers | Email Address |
 |---|---|---|
-| 1 | <u> 1 Care </u> <br><br>Ms Koh Shiew Ling<br>Mrs Usha Surendran | <br> <br> koh_shiew_ling@schools.gov.sg <br> <br>v_usha_devi@schools.gov.sg | 
-| 2 | <u> 1 Diligence </u> <br><br>Ms Valarie Koh <br><br>Mrs Tan Chor Hiang | <br>koh_wee_cheng_valarie@schools.gov.sgtan_Chor_Hiang_a@schools.gov.sg |
-| 3 |  1 Honesty<br><br>Mrs Chandramohan<br><br>Mrs Clarissa Yap |  <br><br>madhavi_chandramohan@schools.gov.sg<br>yap_yen_ching_clarissa@schools.gov.sg |
-| 4     |  1 Kindness <br><br>Mdm Leow Soo San<br><br>Mrs Maggie Tan | <br>leow_soon_san@schools.gov.sg<br><br>tan_maggie@schools.gov.sg |
-| 5 |   1 Loyalty  <br><br><br>Ms Melissa Ng<br><br><br>Mdm Theresa Chua | <br>ng_peiyun_melissa@schools.gov.sg chua_sock_eng_theresa@schools.gov.sg |
-| 6 |  1 Resilience <br>Ms Shamsiah<br><br>Ms Toh Xiao Ting    | <br>shamsiah_samsudin@schools.gov.sg<br><br>toh_xiao_ting@schools.gov.sg |
-|  7 |  P1 Transit<br><br>Mrs Siti Wazirah Covas<br> |  <br>siti_wazirah_daud@schools.gov.sg |
-| 8 |  2 Care   <br><br>Mrs Boo Heoh Pio<br><br><br>Mdm Hafizah  |  <br><br><br>goh_heoh_pio@schools.gov.sg<br><br>hafizah_ismadi@schools.gov.sg |
-| 9 |  2 Diligence <br><br>Mdm Cheng Kah Yong<br><br>Mdm Masliza   | <br>cheng_kah_yong@schools.gov.sg<br><br>masliza_bt_misri@schools.gov.sg |
-| 10 |  2 Honesty <br><br><br>Mdm Chan Sin Lin<br>Mr Tan Yong Zu |  <br><br>chan_sin_lin@schools.gov.sg <br><br>tan_yong_zu@schools.gov.sg<br> |
-| 11 | 2 Kindness <br> Ms Chan Sui Sui<br><br>Mrs Debbie Lau |   <br><br>chan_sui_sui@schools.gov.sg debbie_poon_ee_le@schools.gov.sg |
+| 1 | <u> 1 Care </u> <br><br>Ms Koh Shiew Ling<br>Mrs Usha Surendran | <br> <br> koh_shiew_ling@schools.gov.sg <br> v_usha_devi@schools.gov.sg | 
+| 2 | <u> 1 Diligence </u> <br><br>Ms Valarie Koh <br>Mrs Tan Chor Hiang | <br> <br> koh_wee_cheng_valarie@schools.gov.sg <br> tan_Chor_Hiang_a@schools.gov.sg |
+| 3 |  <u> 1 Honesty </u> <br><br>Mrs Chandramohan <br>Mrs Clarissa Yap | <br> <br> madhavi_chandramohan@schools.gov.sg<br>yap_yen_ching_clarissa@schools.gov.sg |
+| 4 |  <u> 1 Kindness </u> <br><br>Mdm Leow Soo San <br>Mrs Maggie Tan | <br><br> leow_soon_san@schools.gov.sg<br>tan_maggie@schools.gov.sg |
+| 5 | <u> 1 Loyalty </u> <br><br>Ms Melissa Ng<br>Mdm Theresa Chua | <br> <br> ng_peiyun_melissa@schools.gov.sg <br> chua_sock_eng_theresa@schools.gov.sg |
+| 6 | <u> 1 Resilience </u> <br> <br>Ms Shamsiah<br>Ms Toh Xiao Ting | <br><br> shamsiah_samsudin@schools.gov.sg <br> toh_xiao_ting@schools.gov.sg |
+|  7 |  <u> P1 Transit </u> <br><br>Mrs Siti Wazirah Covas<br> | <br> <br>siti_wazirah_daud@schools.gov.sg |
+| 8 |  <u> 2 Care </u> <br><br>Mrs Boo Heoh Pio<br>Mdm Hafizah  |  <br><br>goh_heoh_pio@schools.gov.sg <br>hafizah_ismadi@schools.gov.sg |
+| 9 |  <u> 2 Diligence </u> <br><br>Mdm Cheng Kah Yong<br>Mdm Masliza | <br> <br> cheng_kah_yong@schools.gov.sg<br>masliza_bt_misri@schools.gov.sg |
+| 10 | <u> 2 Honesty </u><br><br>Mdm Chan Sin Lin<br>Mr Tan Yong Zu | <br><br>chan_sin_lin@schools.gov.sg <br>tan_yong_zu@schools.gov.sg<br> |
+| 11 | <u> 2 Kindness </u> <br><br> Ms Chan Sui Sui<br>Mrs Debbie Lau | <br><br> chan_sui_sui@schools.gov.sg <br>  debbie_poon_ee_le@schools.gov.sg |
 | 12 |  2 Loyalty <br><br>Mrs Pearl Phua<br><br>Mrs Sukumaran | <br>ang_shi_yin_pearl@schools.gov.sg<br>sukumaran_k_nair@schools.gov.sg<br><br><br><br> |
 | 13  |  2 Resilience <br><br>Miss Priscilla Carmel  <br><br>Ms Sylvia Seah    | <br>priscilla_carmel_rajadurai@schools.gov.sg<br><br>seah_jia_ying_sylvia@schools.gov.sg |
 |  14 |  3 Care   <br><br>Mr Bernard Ng<br><br>Mrs Latha Joseph<br> | <br>ng_ho_lam_bernard@schools.gov.sg<br>latha_devi@schools.gov.sg   |
