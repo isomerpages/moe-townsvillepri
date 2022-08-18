@@ -2,7 +2,7 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - Curriculum/Mother Tongue.md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue.md
