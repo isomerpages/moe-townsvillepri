@@ -2,4 +2,5 @@ collections:
   our-identity:
     output: true
     order:
+      - Our School/Our History.md
       - Our School/.keep
