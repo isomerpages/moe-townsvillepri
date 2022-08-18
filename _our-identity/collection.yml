@@ -2,7 +2,7 @@ collections:
   our-identity:
     output: true
     order:
-      - Our School/School Crest, Motto & School Song.md
       - Our School/.keep
       - Our School/Our History.md
       - Our School/Principal's Message.md
+      - Our School/School Crest, Motto & School Song.md
