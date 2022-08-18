@@ -80,3 +80,38 @@ third_nav_title: Our People
 |  33 | <u> 6 Honesty </u><br><br>Mrs Lee Peck Har<br>Ms Rachel Kunnasekaran | <br> <br> ong_peck_har@schools.gov.sg <br>gayathri_kunnasekaran@schools.gov.sg  |
 | 34 | <u> 6 Loyalty </u><br><br>Mrs Nge Yuen Ee<br>Mdm Suzana Su'ah | <br><br> tham_yuen_ee@schools.gov.sg <br> suzana_suah@schools.gov.sg |
 | | | |
+
+### Allied Educators 
+
+| S/N | Appointment<br>Name | Email Address |
+|---|---|---|
+| 1 | AED/LBS<br>Mr Ong Yew Chong | ong_yew_chong@moe.edu.sg |
+| 2 | AED/T&L<br>Mdm Esther Tan | tan_chor_joo@moe.edu.sg |
+|  3 |  AED/T&L<br>Mdm Ng Guat Ming |  ng_guat_ming@moe.edu.sg |
+|    4 |  AED/LBS<br> Mdm Josephine Tan |  tan_yan_siew_josephine@schools.gov.sg  |
+|  5 |  AED/LBS<br> Ms Amanda Pan |  amanda_pan_jiayi@schools.gov.sg  |
+| | |
+
+### Executive and Administrative
+
+| S/N | Appointment Name | Email Address |
+|---|---|---|
+| 1 | Admin Manager<br>Ms Nancy Koh | Koh_Mei_chin@schools.gov.sg |
+| 2 | Operation Manager<br>Mr Samad Bin Surat | samad_surat@moe.edu.sg |
+| 3 | CSO<br>Mr Jegatheson |  jagatheson_subramaniam@moe.edu.sg |
+| 4 | CSO<br>Ms Dwie Indah | dwie_indah@schools.gov.sg  |
+| 5 | OSO <br> Mdm Seetoh May Leng | |
+| 6 | OSO<br>Mdm Rossitah |   |
+| 7 | OSO<br>Mdm Punetha |   |
+| 8 | OSO<br>Mdm Tharani |   |
+| | |
+
+### Executive and Administrative
+
+| S/N | Appointment<br>Name | Email Address | 
+|---|---|---|
+| 1 | Desktop Engineer <br>Ms Shafiqah | |
+| 2 | Desktop Engineer<br>Mr Firdaus |  |  
+| 3 | ICT Trainer<br>Mr Shawn Scully | shawnscullytvps@gmail.com | 
+|  4 | Librarian<br>Mdm Norlela |  |
+| | | |
