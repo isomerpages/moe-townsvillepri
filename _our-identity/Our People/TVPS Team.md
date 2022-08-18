@@ -45,8 +45,8 @@ third_nav_title: Our People
 
 | S/N | Class<br>Form Teachers | Email Address |
 |---|---|---|
-| 1 | <u> 1 Care </u> <br><br>Ms Koh Shiew Ling<br>Mrs Usha Surendran | <br> <br> koh_shiew_ling@schools.gov.sg<br> <br>v_usha_devi@schools.gov.sg | 
-| 2 | 1 Diligence <br><br>Ms Valarie Koh <br><br>Mrs Tan Chor Hiang | <br>koh_wee_cheng_valarie@schools.gov.sgtan_Chor_Hiang_a@schools.gov.sg |
+| 1 | <u> 1 Care </u> <br><br>Ms Koh Shiew Ling<br>Mrs Usha Surendran | <br> <br> koh_shiew_ling@schools.gov.sg <br> <br>v_usha_devi@schools.gov.sg | 
+| 2 | <u> 1 Diligence </u> <br><br>Ms Valarie Koh <br><br>Mrs Tan Chor Hiang | <br>koh_wee_cheng_valarie@schools.gov.sgtan_Chor_Hiang_a@schools.gov.sg |
 | 3 |  1 Honesty<br><br>Mrs Chandramohan<br><br>Mrs Clarissa Yap |  <br><br>madhavi_chandramohan@schools.gov.sg<br>yap_yen_ching_clarissa@schools.gov.sg |
 | 4     |  1 Kindness <br><br>Mdm Leow Soo San<br><br>Mrs Maggie Tan | <br>leow_soon_san@schools.gov.sg<br><br>tan_maggie@schools.gov.sg |
 | 5 |   1 Loyalty  <br><br><br>Ms Melissa Ng<br><br><br>Mdm Theresa Chua | <br>ng_peiyun_melissa@schools.gov.sg chua_sock_eng_theresa@schools.gov.sg |
