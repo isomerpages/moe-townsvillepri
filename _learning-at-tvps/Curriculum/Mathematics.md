@@ -32,6 +32,7 @@ The E2K programme is an enrichment programme for selected Primary 4 students w
 The Financial Literacy Programme is held termly and aims to teach our students to be financially literate and to develop healthy financial habits. This is done by equipping them with financial literacy knowledge through bite sized information and engaging activities shared through multimodal platforms. 
 
 **Fun with Math @ Recess**
+
 ![](/images/158324553_4480132468667955_1869640778425412738_n.jpg)
 
 Fun with Math @ Recess is a termly programme where students get to play games related to Math during recess. Through games, they get to apply their Mathematical concepts and knowledge in a fun and non-threatening manner.
