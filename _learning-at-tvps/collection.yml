@@ -2,6 +2,6 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - Curriculum/Mathematics.md
-      - Curriculum/English.md
       - Curriculum/.keep
+      - Curriculum/English.md
+      - Curriculum/Mathematics.md
