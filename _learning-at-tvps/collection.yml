@@ -2,4 +2,5 @@ collections:
   learning-at-tvps:
     output: true
     order:
+      - Curriculum/English.md
       - Curriculum/.keep
