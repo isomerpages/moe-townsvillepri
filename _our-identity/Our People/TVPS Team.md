@@ -56,18 +56,18 @@ third_nav_title: Our People
 | 9 |  <u> 2 Diligence </u> <br><br>Mdm Cheng Kah Yong<br>Mdm Masliza | <br> <br> cheng_kah_yong@schools.gov.sg<br>masliza_bt_misri@schools.gov.sg |
 | 10 | <u> 2 Honesty </u><br><br>Mdm Chan Sin Lin<br>Mr Tan Yong Zu | <br><br>chan_sin_lin@schools.gov.sg <br>tan_yong_zu@schools.gov.sg<br> |
 | 11 | <u> 2 Kindness </u> <br><br> Ms Chan Sui Sui<br>Mrs Debbie Lau | <br><br> chan_sui_sui@schools.gov.sg <br>  debbie_poon_ee_le@schools.gov.sg |
-| 12 |  2 Loyalty <br><br>Mrs Pearl Phua<br><br>Mrs Sukumaran | <br>ang_shi_yin_pearl@schools.gov.sg<br>sukumaran_k_nair@schools.gov.sg<br><br><br><br> |
-| 13  |  2 Resilience <br><br>Miss Priscilla Carmel  <br><br>Ms Sylvia Seah    | <br>priscilla_carmel_rajadurai@schools.gov.sg<br><br>seah_jia_ying_sylvia@schools.gov.sg |
-|  14 |  3 Care   <br><br>Mr Bernard Ng<br><br>Mrs Latha Joseph<br> | <br>ng_ho_lam_bernard@schools.gov.sg<br>latha_devi@schools.gov.sg   |
-| 15 |  3 Diligence <br>Mr Calvin Ong<br><br><br>Mdm Khairiah Bte Abdulmajid |  <br>ong_yu_meng_calvin@schools.gov.sg <br><br><br>khairiah_abdulmajid_h@schools.gov.sg  |
-| 16 |  3 Honesty <br>Mdm Ong Jia Ling<br><br>Mr Rajinikanth Naidu | <br>ong_jia_ling@schools.gov.sg <br><br>rajinikanth_naidu_s@schools.gov.sg  |
-| 17 |  3 Kindness <br><br><br>Mdm Chan Fei Kuan <br><br><br>Mr Jeffrey Lim |  <br><br>chan_fei_kuan@schools.gov.sg<br><br> lim_han_hock@schools.gov.sg |
-| 18 |  3 Loyalty <br>Mr Shane Quek<br><br>Ms Zhang Fujun  | <br>quek_see_haw_shane@schools.gov.sg<br>zhang_fujun@schools.gov.sg |
-| 19 |  4 Care <br>Mr Marc Ang<br><br>Mrs Polly Chin<br><br>Ms Ong Chor Meng | <br> ang_mia_kuang_marc@schools.gov.sg <br><br>law_polly@schools.gov.sg <br><br>ong_chor_meng@schools.gov.sg |
-| 20 |  4 Diligence<br>  Mrs Chia Poh Kwang<br><br>Mr Joe Choo | <br> chia_poh_kwang@schools.gov.sg<br>choo_onn_joe@schools.gov.sg  |
-| 21 |  4 Honesty <br>Mdm Christine Choy<br><br>Mdm Noor Saleha | <br>choy_peizhi@schools.gov.sg<br><br>noor_saleha_johari@schools.gov.sg |
-| 22 |  4 Kindness<br><br>Mrs Goh Siew Kee<br><br>Mr Vincent Poh<br><br>Mdm Peh Ah Lian | <br>goh_siew_kee@schools.gov.sg  <br><br>poh_choon_sian@schools.gov.sg <br><br>peh_ah_lian@schools.gov.sg |
-| 23 |  4 Loyalty<br><br>Mdm Chong Hui Ling Shireen<br><br>Mr M Nachiappan | <br><br>chong_hui_ling_shireen@schools.gov.sg<br><br>m_nachiappan@schools.gov.sg |
+| 12 | <u> 2 Loyalty </u> <br><br>Mrs Pearl Phua<br>Mrs Sukumaran | <br> <br> ang_shi_yin_pearl@schools.gov.sg<br>sukumaran_k_nair@schools.gov.sg |
+| 13  |  <u> 2 Resilience </u><br><br>Miss Priscilla Carmel  <br>Ms Sylvia Seah | <br> <br> priscilla_carmel_rajadurai@schools.gov.sg<br>seah_jia_ying_sylvia@schools.gov.sg |
+|  14 |  <u> 3 Care </u><br><br>Mr Bernard Ng<br>Mrs Latha Joseph | <br><br> ng_ho_lam_bernard@schools.gov.sg<br>latha_devi@schools.gov.sg |
+| 15 |  <u> 3 Diligence </u><br><br> Mr Calvin Ong<br>Mdm Khairiah Bte Abdulmajid | <br>  <br> ong_yu_meng_calvin@schools.gov.sg <br> khairiah_abdulmajid_h@schools.gov.sg  |
+| 16 | <u> 3 Honesty </u> <br> <br>Mdm Ong Jia Ling<br>Mr Rajinikanth Naidu | <br><br> ong_jia_ling@schools.gov.sg <br> rajinikanth_naidu_s@schools.gov.sg  |
+| 17 | <u> 3 Kindness </u><br><br>Mdm Chan Fei Kuan <br>Mr Jeffrey Lim |  <br><br> chan_fei_kuan@schools.gov.sg<br>lim_han_hock@schools.gov.sg |
+| 18 |  <u> 3 Loyalty </u><br><br>Mr Shane Quek<br>Ms Zhang Fujun | <br> <br> quek_see_haw_shane@schools.gov.sg<br>zhang_fujun@schools.gov.sg |
+| 19 |  <u> 4 Care </u><br><br>Mr Marc Ang<br>Mrs Polly Chin<br>Ms Ong Chor Meng | <br> <br> ang_mia_kuang_marc@schools.gov.sg<br>law_polly@schools.gov.sg <br>ong_chor_meng@schools.gov.sg |
+| 20 |  <u> 4 Diligence </u><br><br> Mrs Chia Poh Kwang<br>Mr Joe Choo | <br> <br> chia_poh_kwang@schools.gov.sg<br>choo_onn_joe@schools.gov.sg |
+| 21 |  <u> 4 Honesty </u><br><br>Mdm Christine Choy <br>Mdm Noor Saleha | <br><br> choy_peizhi@schools.gov.sg<br>noor_saleha_johari@schools.gov.sg |
+| 22 |  <u> 4 Kindness </u> <br><br>Mrs Goh Siew Kee<br>Mr Vincent Poh<br>Mdm Peh Ah Lian | <br><br>goh_siew_kee@schools.gov.sg <br> poh_choon_sian@schools.gov.sg <br> peh_ah_lian@schools.gov.sg |
+| 23 | <u> 4 Loyalty </u><br><br>Mdm Chong Hui Ling Shireen<br>Mr M Nachiappan | <br><br>chong_hui_ling_shireen@schools.gov.sg<br>m_nachiappan@schools.gov.sg |
 | 24 |  4 Resilience <br><br>Mr Koh Chi Wei<br>Mdm Irdawati Bte Mohd Ariffin                 | <br>koh_chi_wei@schools.gov.sg<br><br>irdawati_mohd_ariffin@schools.gov.sg |
 | 25 |  5 Care  <br><br>Mr Lim Boon Hai<br><br>Mdm Yuen Hooi Shing |  <br>lim_boon_hai@schools.gov.sg <br><br><br>yuen_hooi_shing@schools.gov.sg |
 | 26 |  5 Diligence<br><br>Mrs Pamela Chan<br><br>Ms Nur Shameem | <br>pei_cihui_pamela@schools.gov.sgnur_shameem_abdul_gafoor@schools.gov.sg |
