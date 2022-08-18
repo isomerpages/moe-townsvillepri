@@ -2,5 +2,6 @@ collections:
   our-identity:
     output: true
     order:
+      - Our School/Principal's Message.md
       - Our School/Our History.md
       - Our School/.keep
