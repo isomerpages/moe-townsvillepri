@@ -27,6 +27,7 @@ Creative thinkers, we aspire <br>
 Lifelong learners we want to be <br>
 Brave people of integrity <br>
   
+	
 Chorus: <br>
 Townsville, our guide <br>
 To you we pledge <br>
