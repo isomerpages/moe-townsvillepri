@@ -4,11 +4,11 @@ title: Townsvill Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Townsville Primary School
+      subtitle: Leaders of Character, Learners for Life.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -22,12 +22,12 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Join us today!
+      subtitle: Townsville primary school
+      description: Leaders of Character, Learners for Life!
+      button: Click here to find out more
+      url: https://tvpsfamily.wixsite.com/joinustoday
+      image: /images/School Website Banner.jpeg
+      alt: Image alt text
 ---
-
-
