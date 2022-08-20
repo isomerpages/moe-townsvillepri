@@ -2,7 +2,6 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - Curriculum/Aesthetics.md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
@@ -10,3 +9,4 @@ collections:
       - Curriculum/Science.md
       - Curriculum/Physical & Health Education.md
       - Curriculum/Programme for Active Learning.md
+      - Curriculum/Aesthetics.md
