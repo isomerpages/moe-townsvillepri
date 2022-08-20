@@ -6,7 +6,7 @@ third_nav_title: Co Curriculum
 ---
 ### Floorball
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0PxmPa6eSS0" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0PxmPa6eSS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Mission** <br>
 To nurture athletes to enjoy the sport and achieve excellence through team work and discipline  
@@ -33,7 +33,7 @@ ISH
 
 ### Football
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IBe4Ec1ooII?start=1" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBe4Ec1ooII?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Mission** <br>
 To enrich the lives of students by providing opportunities to be disciplined and creative thinkers through football  
@@ -61,7 +61,7 @@ School Field
 
 ### Taekwondo
 
-<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVF4I_fxoLWmYdabFEJWi4xkUM5mZdy2RIilbmm10N7BQbAEL-cb22K5yt5VVDoaMh1f_Vv1Fwog_k/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVF4I_fxoLWmYdabFEJWi4xkUM5mZdy2RIilbmm10N7BQbAEL-cb22K5yt5VVDoaMh1f_Vv1Fwog_k/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="600" height="500" allowfullscreen="true"></iframe>
 
 **Mission** <br>
 To provide an avenue for pupils to learn basic and advanced taekwondo skills and at the same time, build resilience, discipline and sportsmanship.  
@@ -88,3 +88,31 @@ ISH
 
 ### Badminton
 
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBQXg0ZEM0CcOorr2sfyQA1zOUUgPMnIrQw_mP5K4NqkoaILSUtOGe2Qd9rHxhpj4De257efQ-bbOV/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+**Mission** <br>
+To promote participation and development of badminton in the young athletes for life, providing opportunities for them to reach their fullest potential through badminton as sport.  
+  
+**Vision** <br>
+To create a badminton community that promotes friendship and development of fitness and health  
+  
+**Objectives** <br>
+* To enable pupils to understand and apply the basic rules of Badminton.  
+* To enable pupils (ranging from beginners to advanced players) to learn and apply skills in a match.  
+* To enable pupils to exhibit vales of sportsmanship and acquire values of fair play, teamwork and discipline.  
+  
+**Teachers/Coaches** <br>
+Mdm Yuen Hooi Shing <br>
+Ms Sylvia Seah <br>
+Mdm Theresa Chua <br>
+Mdm Masliza <br>
+
+**Training Schedule** <br>
+Mon 2pm to 4pm <br>
+Thurs 2pm to 4pm
+
+**Venue** <br>
+School Hall  
+  
+**Recent Achievements** <br>
+Participation in South Zone Primary Schools Badminton Championship 2017 (Senior Boys and Girls)
