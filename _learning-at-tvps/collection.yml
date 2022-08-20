@@ -2,10 +2,10 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - Curriculum/Programme for Active Learning.md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
       - Curriculum/Mother Tongue.md
       - Curriculum/Science.md
       - Curriculum/Physical & Health Education.md
+      - Curriculum/Programme for Active Learning.md
