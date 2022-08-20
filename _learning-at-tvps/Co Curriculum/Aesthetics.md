@@ -44,7 +44,8 @@ Singapore Youth Festival Arts Presentation 2014 - Distinction <br> Singapore You
 <img style="width:60%" src="/images/WhatsApp%20Image%202021-01-19%20at%2011.jpeg">
 
 **Mission** <br>
-Provide an Enriching ART Experience for our Aspiring Artists  
+Provide an Enriching ART Experience for our Aspiring Artists
+
 **Vision** <br>
 To CREATE. To INSPIRE. To EXCEL.  
   
@@ -93,7 +94,7 @@ Mrs Florence Chia <br>
 Mr Tan Yong Zu <br>
 Mrs Siti Wazirah Covas
 
-**Training Schedule** <br>  
+**Training Schedule** <br> 
 Mon 2pm- 4pm
 
 **Venue** <br>  
