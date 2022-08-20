@@ -30,3 +30,31 @@ Thurs 2pm to 4pm
 
 **Venue** <br>
 ISH
+
+### Football
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBe4Ec1ooII?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Mission** <br>
+To enrich the lives of students by providing opportunities to be disciplined and creative thinkers through football  
+  
+**Vision** <br>
+A united team which uphold values of sportsmanship and excellence.  
+  
+**Objectives** <br>
+Provide opportunities for students to:  
+* Acquire, develop and apply football skills in the game  
+* Pitch their skills against other school players, especially during competitions  
+* Exhibit school values, sportsmanship and teamwork through games  
+  
+**Teachers/Coaches** <br>
+Mr Benjamin Quek <br>
+Mr Raj <Br>
+Mr Nachiappan
+
+**Training Schedule** <br>
+Mon 2pm to 4pm <br>
+Thurs 2pm to 4pm  
+
+**Venue** <br>
+School Field
