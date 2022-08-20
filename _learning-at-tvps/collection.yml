@@ -2,8 +2,6 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - Co Curriculum/Co curricular Activities (CCAs).md
-      - Co Curriculum/.keep
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
@@ -16,3 +14,5 @@ collections:
       - Curriculum/Character & Citizenship Education.md
       - Curriculum/Social Studies.md
       - Curriculum/Learning With ICT.md
+      - Co Curriculum/.keep
+      - Co Curriculum/Co curricular Activities (CCAs).md
