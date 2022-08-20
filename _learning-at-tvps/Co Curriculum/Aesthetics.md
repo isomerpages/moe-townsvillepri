@@ -97,7 +97,7 @@ Mrs Siti Wazirah Covas
 **Training Schedule** <br> 
 Mon 2pm- 4pm
 
-**Venue** <br>  
+**Venue** <br> 
 PAL Room  
   
 **Recent Achievements** <br>
