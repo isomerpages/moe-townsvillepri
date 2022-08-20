@@ -2,7 +2,6 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - Curriculum/Learning With ICT.md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
@@ -14,3 +13,4 @@ collections:
       - Curriculum/Aesthetic (Music).md
       - Curriculum/Character & Citizenship Education.md
       - Curriculum/Social Studies.md
+      - Curriculum/Learning With ICT.md
