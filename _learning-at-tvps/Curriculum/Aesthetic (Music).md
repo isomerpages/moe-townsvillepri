@@ -30,9 +30,6 @@ Using the 3Es Approach, our curriculum and programmes provide students with **E
 * Platform for students to be creative and perform in front of the whole school
 * Develop next level of confidence and learn about stage performance  
       
-    
-
-#### **Music Enrichment Programme (AMIS Programme)**
-
-*   Expose to a variety of musical instruments
-*   Experience different performing arts items
+**Music Enrichment Programme (AMIS Programme)**
+* Expose to a variety of musical instruments
+* Experience different performing arts items
