@@ -6,7 +6,7 @@ third_nav_title: Co Curriculum
 ---
 ### Floorball
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0PxmPa6eSS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0PxmPa6eSS0" height="315" width="560"></iframe>
 
 **Mission** <br>
 To nurture athletes to enjoy the sport and achieve excellence through team work and discipline  
@@ -20,7 +20,7 @@ Resilience and teamwork in the pursuit of excellence
 * To build character and cultivate values in our students  
   
 **Teachers/Coaches** <br>
-Mr Shane Quek <br>
+Mr Shane Quek&nbsp;<br>
 Mrs Boo Heoh Pio <br>
 Mdm Esther Tan <br>
 Mrs Karen Anne Silva
@@ -33,7 +33,7 @@ ISH
 
 ### Football
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IBe4Ec1ooII?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IBe4Ec1ooII?start=1" height="315" width="560"></iframe>
 
 **Mission** <br>
 To enrich the lives of students by providing opportunities to be disciplined and creative thinkers through football  
@@ -49,7 +49,7 @@ Provide opportunities for students to:
   
 **Teachers/Coaches** <br>
 Mr Benjamin Quek <br>
-Mr Raj <Br>
+Mr Raj <br>
 Mr Nachiappan
 
 **Training Schedule** <br>
@@ -58,3 +58,33 @@ Thurs 2pm to 4pm
 
 **Venue** <br>
 School Field
+
+### Taekwondo
+
+<iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVF4I_fxoLWmYdabFEJWi4xkUM5mZdy2RIilbmm10N7BQbAEL-cb22K5yt5VVDoaMh1f_Vv1Fwog_k/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+**Mission** <br>
+To provide an avenue for pupils to learn basic and advanced taekwondo skills and at the same time, build resilience, discipline and sportsmanship.  
+  
+**Vision** <br>
+To develop character and values in our pupils through discipline in training.  
+  
+**Objectives** <br>
+* To develop an appreciation for Taekwondo as a sport and art, and achieve physical fitness through participation and discipline.  
+* To develop a sense of responsibility for self and others, and acquiring skills of self-defence.  
+  
+**Teachers-in-charge**
+* Ms Chan Sin Lin
+* Mdm Ong Jia Ling
+* Mdm Peh Ah Lian
+* Mdm An Wei
+  
+**Training Schedule** <br>
+Mon 2pm to 4pm <br>
+Thurs 2pm to 4pm  
+
+**Venue** <br>
+ISH
+
+### Badminton
+
