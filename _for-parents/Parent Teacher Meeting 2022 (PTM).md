@@ -19,3 +19,10 @@ The focus of the PTM will be on your child’s progress, in the following areas
 3.       [PG Booking Guide for Parents](/files/PG%20Booking%20Guide%20for%20Parents.pdf) <br>
 4.       [Feedback on PTMs](https://go.gov.sg/76p5ig) <br>
 5.       [Appreciation of Staff in Townsville Primary School](https://go.gov.sg/ng2zt3)
+
+### Briefing information for ALs, DSA (P6) & SBB (P4)
+
+
+#### 1. Achievement Levels Briefing - Primary 6
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rfJ5PrPg8I?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
