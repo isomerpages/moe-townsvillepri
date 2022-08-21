@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Waiting List for Admission.md
       - Parent Teacher Meeting 2022 (PTM).md
       - Parent's Gateway.md
       - COVID 19 Matters.md
@@ -19,3 +18,4 @@ collections:
       - School Service Providers/School Dental Clinic.md
       - School Service Providers/School Student Care Centre.md
       - School Safety & Security.md
+      - Waiting List for Admission.md
