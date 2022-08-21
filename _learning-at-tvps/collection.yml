@@ -2,7 +2,6 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - Values in Action (VIA).md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
@@ -25,3 +24,4 @@ collections:
       - "Signature Programmes/Learning for Life (LLP): Visual Arts.md"
       - Signature Programmes/Leaders in TVPS (LiT).md
       - Signature Programmes/Project Work.md
+      - Values in Action (VIA).md
