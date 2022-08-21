@@ -2,6 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - COVID 19 Matters.md
       - Parent Teacher Meeting 2022 (PTM).md
       - Parent's Gateway.md
+      - COVID 19 Matters.md
