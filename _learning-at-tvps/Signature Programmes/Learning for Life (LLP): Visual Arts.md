@@ -11,4 +11,3 @@ Besides art making process, students are further engaged through art-making disc
 Selected students’ art works are on display at our very own in-house art galleries:&nbsp;**_Our Young Passionate Artists Wall_**&nbsp;and&nbsp;**_The Arte_**. This allows students to learn more from their friend as artists, model after them, integrate ideas and inspirations drawn from their works, and be encouraged to create their own expression of visual arts.&nbsp;The LLP structure is also designed to provide support for all students with different aptitude/interest (three-tier approach).
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYS0dphPlLEWHh3Sp_IVag40xLSoBF7D3LV4aL58vb182__uWFpjWFNydSx78690-b3xLxAUpZ-D3z/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
-
