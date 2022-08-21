@@ -11,7 +11,7 @@ Students from needy families can apply for financial assistance through the sc
 CDAC - SFCCA  Bursary  is offered to students who need financial assistance. <br>
 Here is a little more information - [CDAC-SFCCA Bursary 2022.pdf](/files/CDAC-SFCCA%20Bursary%202022.pdf)
 
-**Link to application form-** [click here](https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/)
+**Link to application form -** [click here](https://www.cdac.org.sg/developing-students/assistance-support/cdac-sfcca-bursary/)
 
 ### CDAC
 
