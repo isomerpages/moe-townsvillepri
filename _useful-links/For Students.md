@@ -19,7 +19,7 @@ An online learning portal with resources for students to engage in self-directed
 <div>  
 <div style="float: left">  
 <img src="/images/tinkle%20friend.jpg" 
-     style="width:50%">
+     style="width:30%">
 </div>  
 <div></div>  
 </div>
