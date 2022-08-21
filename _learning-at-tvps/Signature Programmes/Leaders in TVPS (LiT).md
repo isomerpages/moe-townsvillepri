@@ -13,6 +13,7 @@ Through the LiT Programme, the school seeks to develop leadership skills in stud
 ![](/images/Leadership%20Continuum%20Model.jpg)
 
 **Leadership Development Continuum Model**
+
 |  |  |  |  |
 |---|---|---|---|
 | <br>    |  |  |  |
@@ -22,4 +23,4 @@ Through the LiT Programme, the school seeks to develop leadership skills in stud
 | Level-Based Outdoor Leadership Experience (New initiative for Year 2020) | School-Based Leadership Training | External Leadership Training (Camps, Workshops, Learning Journey, Overseas Trip) | Community-Based Training (Community Projects, Learning Journey, Overseas Trip) |
 | **WHO?** |  |  |  |
 | Townsvillites | Peer Support Leaders<br>Cyberwellness / Green Ambassadors | Members of the Student Council<br>CCA leaders | EXCO Members of the Student Council |
-| | | | | 
+| | | | |
