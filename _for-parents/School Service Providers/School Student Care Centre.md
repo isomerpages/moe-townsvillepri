@@ -69,7 +69,7 @@ T-shirt: $12/shirt
 
 To register with the student care centre, please contact via:  
   
-Online registration link:&nbsp;[Lse registrationform](http://www.tinyurl.com/lse-registrationform)&nbsp; <br>
+Online registration link: [Lse registrationform](http://www.tinyurl.com/lse-registrationform) <br>
 Phone: 8787 0578 <br>
-E-mail:&nbsp;[enquiry@learningstudioeducare.com](mailto:enquiry@learningstudioeducare.com) <br>
-Website:&nbsp;[www.learningstudioeducare.com](http://www.learningstudioeducare.com/)
+E-mail: [enquiry@learningstudioeducare.com](mailto:enquiry@learningstudioeducare.com) <br>
+Website: [www.learningstudioeducare.com](http://www.learningstudioeducare.com/)
