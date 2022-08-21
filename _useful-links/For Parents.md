@@ -9,8 +9,6 @@ description: ""
 <u><strong> Schoolbag Education Site </strong></u><br>
  An online publication by the Ministry of Education which provides parents, educators and the general public with education news, school features and tips. [Click here](https://www.schoolbag.edu.sg/) to access.
  
- <br>
- 
 <img src="/images/DSA.jpg" 
      style="width:80%">
 
