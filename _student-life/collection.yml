@@ -2,10 +2,10 @@ collections:
   student-life:
     output: true
     order:
-      - Outdoor Experiential Learning/.keep
       - Life @ TVPS/.keep
       - Life @ TVPS/Maker's Space & Discovery Studio.md
       - Life @ TVPS/First Day of School 2022.md
       - "Life @ TVPS/TVPS Celebrates: P6 Edition.md"
       - Students' Achievements.md
       - Immersion Programmes.md
+      - Outdoor Experiential Learning/.keep
