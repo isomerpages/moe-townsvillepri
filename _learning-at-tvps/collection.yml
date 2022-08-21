@@ -2,6 +2,7 @@ collections:
   learning-at-tvps:
     output: true
     order:
+      - Signature Programmes/.keep
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
