@@ -4,18 +4,20 @@ permalink: /for-parents/parents-gateway
 description: ""
 ---
 <img src="/images/PG.jpg" 
-     style="width:70%">
+     style="width:50%">
 
 <u><strong> Announcements and Forms posted on Parent's Gateway </strong></u> <br>
 Do find below for the announcements and forms posted on Parent's Gateway.
 
 ### Latest Features 
 
-![](/images/photo_2022-08-21_21-52-30.jpg)
+<img src="/images/photo_2022-08-21_21-52-30.jpg" 
+     style="width:70%">
 
 ### Announcements 
 
 #### January
+
 | Documents | Date |
 |---|---|
 | [20220107_Townsville_Connects_Day_All Levels.pdf](/files/20220107_Townsville_Connects_Day_All%20Levels.pdf) |  7 Jan 2022 |
