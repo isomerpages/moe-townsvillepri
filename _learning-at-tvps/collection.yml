@@ -2,6 +2,7 @@ collections:
   learning-at-tvps:
     output: true
     order:
+      - Values in Action (VIA).md
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
