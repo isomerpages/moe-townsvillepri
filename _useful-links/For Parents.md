@@ -3,13 +3,8 @@ title: For Parents
 permalink: /useful-links/for-parents
 description: ""
 ---
-<div>  
-<div style="float: left">  
 <img src="/images/school%20bag.jpg" 
-     style="width:70%">
-</div>  
-<div></div>  
-</div>
+     style="width:30%">
 
 <u><strong> Schoolbag Education Site </strong></u><br>
  An online publication by the Ministry of Education which provides parents, educators and the general public with education news, school features and tips. [Click here](https://www.schoolbag.edu.sg/) to access.
