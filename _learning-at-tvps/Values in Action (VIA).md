@@ -9,12 +9,12 @@ Guided by the dual themes of ‘Growing a Big Heart’ and ‘Caring for the Env
 
 ### Programmes 
 
-P1 & P2:  Classroom Cleanliness Project  
+P1 & P2: Classroom Cleanliness Project  
 
-P3:   Recess Integration with Pathlight School
+P3: Recess Integration with Pathlight School
 
-P4:   Adopting a School Compound
+P4: Adopting a School Compound
 
-P5:   Young Care-Givers’ Programme
+P5: Young Care-Givers’ Programme
 
-P6:   Befriending the Elderly
+P6: Befriending the Elderly
