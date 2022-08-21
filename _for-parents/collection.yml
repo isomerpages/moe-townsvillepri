@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - The Townsville Times (eNews).md
       - Parent Teacher Meeting 2022 (PTM).md
       - Parent's Gateway.md
       - COVID 19 Matters.md
