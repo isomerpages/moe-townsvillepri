@@ -5,14 +5,8 @@ description: ""
 ---
 ### Vaccination Exercise for Students
 
-<div>
-<div style="float: left">
 <img src="/images/Vaccination.jpg" 
-     style="width:25%">
-</div>
-<div>
-</div>
-</div>
+     style="width:70">
 
 Dear parents, click [here](https://townsvillepri-moe-edu-sg-admin.cwp.sg/qql/slot/u544/Enhanced%20School%20Measures.pdf) for details on the vaccination exercise for primary school students.
 
