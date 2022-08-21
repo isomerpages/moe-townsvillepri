@@ -2,5 +2,5 @@ collections:
   for-parents:
     output: true
     order:
-      - Parent's Gateway.md
       - Parent Teacher Meeting 2022 (PTM).md
+      - Parent's Gateway.md
