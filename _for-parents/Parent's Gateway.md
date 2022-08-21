@@ -46,3 +46,14 @@ Do find below for the announcements and forms posted on Parent's Gateway.
 | [Use of School Smart Cards SSC for Concessionary Travel-Primary 1 Students.pdf](/files/Use%20of%20School%20Smart%20Cards%20SSC%20for%20Concessionary%20Travel-Primary%201%20Students.pdf) | 22 Mar 2022 |
 | [Round 2-Use of School Smart Cards SSC for Concessionary Travel - P1 Students.pdf](/files/Round%202-Use%20of%20School%20Smart%20Cards%20SSC%20for%20Concessionary%20Travel%20-%20P1%20%20Students.pdf) | 25 Mar 2022 |
 | | |
+
+#### April
+
+| Documents  | Date |
+|---|---|
+| [School Merger 2022.pdf ](/files/School%20Merger%202022.pdf) | 6 Apr 2022 |
+| [Activation of Student iCON Accounts.pdf](/files/Activation%20of%20Student%20iCON%20Accounts.pdf) | 14 Apr 2022 |
+| [Annex A Info Sheet on 2022 DSA-Sec for Primary 6 Students.pdf](/files/Annex%20A%20Info%20Sheet%20on%202022%20DSA-Sec%20for%20Primary%206%20Students%20(1).pdf) <br> [DSA 2022.pdf](/files/DSA%202022.pdf) | 20 Apr |
+| | | 
+
+#### May
