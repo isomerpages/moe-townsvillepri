@@ -16,7 +16,7 @@ Do find below for the announcements and forms posted on Parent's Gateway.
 ### Announcements 
 
 #### January
-| Documents |  Date |
+| Documents | Date |
 |---|---|
 | [20220107_Townsville_Connects_Day_All Levels.pdf](/files/20220107_Townsville_Connects_Day_All%20Levels.pdf) |  7 Jan 2022 |
 | [P2 to P6_Individual Student Detail Report for Year 2022.pdf](/files/P2%20to%20P6_Individual%20Student%20Detail%20Report%20for%20Year%202022.pdf) | 12 Jan 2022 |
@@ -24,3 +24,14 @@ Do find below for the announcements and forms posted on Parent's Gateway.
 | [P1_Individual Student Detail Report for Year 2022.pdf](/files/P1_Individual%20Student%20Detail%20Report%20for%20Year%202022.pdf) |  19 Jan 2022 |
 | | |
 
+#### February
+
+| Documents | Date |
+|---|---|
+| [P1_Letter to Parents_Assessment in TVPS 2022_MT_MA_EL.pdf](/files/P1_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MT_MA_EL.pdf) | 4 Feb 2022 |
+| [P2_Letter to Parents_Assessment in TVPS 2022_MT_MA_EL.pdf](/files/P2_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MT_MA_EL.pdf) | 4 Feb 2022 |
+| [P3_Letter to Parents_Assessment in TVPS 2022_MT_MA_SC_EL.pdf](/files/P3_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MT_MA_SC_EL.pdf) | 4 Feb 2022 |
+| [P4_Letter to Parents_Assessment in TVPS 2022_MT_MA_SC_EL.pdf](/files/P4_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MT_MA_SC_EL.pdf) | 4 Feb 2022 |
+| [P5_Letter to Parents_Assessment in TVPS 2022_MT_MA_SC_EL.pdf](/files/P5_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MT_MA_SC_EL.pdf) | 4 Feb 2022 |
+| [P6_Letter to Parents_Assessment in TVPS 2022_MA_MT_SC_EL.pdf](/files/P6_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MA_MT_SC_EL.pdf) | 4 Feb 2022 |
+| | | 
