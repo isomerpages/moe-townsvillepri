@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Safety & Security.md
       - Parent Teacher Meeting 2022 (PTM).md
       - Parent's Gateway.md
       - COVID 19 Matters.md
@@ -18,3 +17,4 @@ collections:
       - School Service Providers/School Uniform.md
       - School Service Providers/School Dental Clinic.md
       - School Service Providers/School Student Care Centre.md
+      - School Safety & Security.md
