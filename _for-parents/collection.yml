@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Service Providers/.keep
       - Parent Teacher Meeting 2022 (PTM).md
       - Parent's Gateway.md
       - COVID 19 Matters.md
@@ -12,3 +11,4 @@ collections:
       - Application Forms & Guides/FAS (Financial Assistance Scheme).md
       - Application Forms & Guides/Smart Card.md
       - The Townsville Times (eNews).md
+      - School Service Providers/.keep
