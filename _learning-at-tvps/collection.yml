@@ -2,8 +2,6 @@ collections:
   learning-at-tvps:
     output: true
     order:
-      - "Signature Programmes/Learning for Life (LLP): Visual Arts.md"
-      - Signature Programmes/.keep
       - Curriculum/.keep
       - Curriculum/English.md
       - Curriculum/Mathematics.md
@@ -22,3 +20,5 @@ collections:
       - Co Curriculum/Uniform Groups.md
       - Co Curriculum/Aesthetics.md
       - Co Curriculum/Clubs and Societies.md
+      - Signature Programmes/.keep
+      - "Signature Programmes/Learning for Life (LLP): Visual Arts.md"
