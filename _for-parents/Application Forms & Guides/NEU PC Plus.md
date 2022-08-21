@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Application Forms & Guides
 ---
 <img src="/images/neu%20PC.jpg" 
-     style="width:70%">
+     style="width:50%">
 
 The NEU PC Plus Programme offers students from low income households the opportunity to own a brand new computer at an affordable price. 
 
