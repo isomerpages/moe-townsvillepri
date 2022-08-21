@@ -34,4 +34,13 @@ Do find below for the announcements and forms posted on Parent's Gateway.
 | [P4_Letter to Parents_Assessment in TVPS 2022_MT_MA_SC_EL.pdf](/files/P4_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MT_MA_SC_EL.pdf) | 4 Feb 2022 |
 | [P5_Letter to Parents_Assessment in TVPS 2022_MT_MA_SC_EL.pdf](/files/P5_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MT_MA_SC_EL.pdf) | 4 Feb 2022 |
 | [P6_Letter to Parents_Assessment in TVPS 2022_MA_MT_SC_EL.pdf](/files/P6_Letter%20to%20Parents_Assessment%20in%20TVPS%202022_MA_MT_SC_EL.pdf) | 4 Feb 2022 |
-| | | 
+| | |
+
+#### March
+
+| Documents  | Date |
+|---|---|
+| [Advisory on Travel - March 2022.pdf](/files/Advisory%20on%20Travel%20-%20March%202022.pdf) <br> [Travel Declaration for March Holidays 2022.pdf](/files/Travel%20Declaration%20for%20March%20Holidays%202022.pdf) | 2 Mar 2022 |
+| [Use of School Smart Cards SSC for Concessionary Travel-Primary 1 Students.pdf](/files/Use%20of%20School%20Smart%20Cards%20SSC%20for%20Concessionary%20Travel-Primary%201%20Students.pdf) | 22 Mar 2022 |
+| [Round 2-Use of School Smart Cards SSC for Concessionary Travel - P1 Students.pdf](/files/Round%202-Use%20of%20School%20Smart%20Cards%20SSC%20for%20Concessionary%20Travel%20-%20P1%20%20Students.pdf) | 25 Mar 2022 |
+| | |
