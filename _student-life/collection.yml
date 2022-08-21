@@ -2,5 +2,6 @@ collections:
   student-life:
     output: true
     order:
+      - Life @ TVPS/Maker's Space & Discovery Studio.md
       - Life @ TVPS/First Day of School 2022.md
       - Life @ TVPS/.keep
