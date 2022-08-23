@@ -18,7 +18,7 @@ sections:
           url: /announcements
         - title: School Calendar
           description: ""
-          url: /school-calendar
+          url: https://calendar.google.com/calendar/u/0/r?cid=c_a5e2koa1ltoa1p0t74rt5tcqsk@group.calendar.google.com&cid=en.singapore%23holiday@group.v.calendar.google.com
   - infopic:
       title: Join us today!
       subtitle: Townsville primary school
