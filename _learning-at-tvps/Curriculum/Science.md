@@ -17,9 +17,9 @@ Working and thinking like scientists, students apply&nbsp;science knowledge and 
 
 Science as inquiry&nbsp;stresses active student learning and the importance of understanding scientific concepts. To build the foundation for such skills development, essential process skills (e.g. classifying, interpreting information, planning investigations) which encompass both thinking as well as practical skills are emphasised at different levels to match learners' cognitive development. During such lessons, students are given opportunities to learn by doing. They are encouraged to ask questions and find answers too. 
 
-<img style="width:70%" src="/images/31.jpg">
+<img style="width:50%" src="/images/31.jpg">
 
-<img style="width:70%" src="/images/41.jpg">
+<img style="width:50%" src="/images/41.jpg">
 
 #### 2. Co-Curriculum – Thematic Science Week
 
