@@ -15,9 +15,9 @@ locations:
       - 45, 55, 55B, 261, 652
       - 22, 24, 50, 135, 159
       - 162, 162M, 262, 853, 853M
-    title: "Bus Services:"
     operating_hours: []
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.36003263719251&lng=103.853826048328
+    title: "Bus Services:"
 contacts:
   - content:
       - phone: +65 6564 5743
