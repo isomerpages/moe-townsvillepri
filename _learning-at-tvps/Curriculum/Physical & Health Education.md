@@ -19,6 +19,7 @@ Using the 3Es Approach, our curriculum and programmes provide students with **E
 * Understand the importance of and practice good oral hygiene  
    
 **SwimSafer 2.0**
+
 ![](/images/swim%202.jpeg)
 
 ![](/images/swim%201.jpeg)
