@@ -16,7 +16,6 @@ Through the LiT Programme, the school seeks to develop leadership skills in stud
 
 |  |  |  |  |
 |---|---|---|---|
-| <br>    |  |  |  |
 | **OPPORTUNITIES** |  |  |  |
 | Personal Qualities | Class Based Appointments | School Based Appointments | School Ambassadors |
 | **TRAINING** |  |  |  |
