@@ -1,0 +1,16 @@
+collections:
+  our-identity:
+    output: true
+    order:
+      - Our School/.keep
+      - Our School/Our History.md
+      - Our School/Principal's Message.md
+      - Our School/School Crest, Motto & School Song.md
+      - Our School/School Vision, Mission, Values & Desired Outcomes.md
+      - Our School/The TVPS Experience.md
+      - Our People/.keep
+      - Our People/TVPS Team.md
+      - Our People/School Advisory Committee.md
+      - Our Contributions.md
+      - Our Reflective Practitioners.md
+      - Staff Achievements.md

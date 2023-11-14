@@ -1,0 +1,27 @@
+collections:
+  learning-at-tvps:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/English.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Science.md
+      - Curriculum/Physical & Health Education.md
+      - Curriculum/Programme for Active Learning.md
+      - Curriculum/Aesthetics (Art).md
+      - Curriculum/Aesthetic (Music).md
+      - Curriculum/Character & Citizenship Education.md
+      - Curriculum/Social Studies.md
+      - Curriculum/Learning With ICT.md
+      - Co Curriculum/.keep
+      - Co Curriculum/Co curricular Activities (CCAs).md
+      - Co Curriculum/Sports and Games.md
+      - Co Curriculum/Uniform Groups.md
+      - Co Curriculum/Aesthetics.md
+      - Co Curriculum/Clubs and Societies.md
+      - Signature Programmes/.keep
+      - "Signature Programmes/Learning for Life (LLP): Visual Arts.md"
+      - Signature Programmes/Leaders in TVPS (LiT).md
+      - Signature Programmes/Project Work.md
+      - Values in Action (VIA).md

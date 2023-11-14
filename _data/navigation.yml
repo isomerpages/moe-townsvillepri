@@ -1,0 +1,14 @@
+logo: /images/crest.jpg
+links:
+  - title: Our Identity
+    collection: our-identity
+  - title: Learning @ TVPS
+    collection: learning-at-tvps
+  - title: Students' Life
+    collection: student-life
+  - title: For Parents
+    collection: for-parents
+  - title: Useful Links
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/
